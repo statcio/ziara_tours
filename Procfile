@@ -1,0 +1,1 @@
+web: gunicorn ziara_tours.wsgi
